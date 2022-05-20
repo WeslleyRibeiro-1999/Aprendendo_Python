@@ -1,0 +1,1 @@
+Todos os exemplos e exercicios de como eu aprendi Python
